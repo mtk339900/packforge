@@ -28,7 +28,7 @@ A raw packet crafter and sniffer written in C — no libpcap, no libc networking
 ## Build
 
 ```bash
-git clone https://github.com/yourname/packforge
+git clone https://github.com/mtk339900/packforge
 cd packforge
 make
 sudo make install        # optional: installs to /usr/local/bin
